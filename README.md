@@ -6,6 +6,10 @@
 
 #### MIT license.
 
+<br>
+
+================================================================================
+
 # Freshchat plugin
 (https://twitter.com/freshchatapp)
 
